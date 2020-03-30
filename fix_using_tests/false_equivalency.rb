@@ -13,7 +13,7 @@ end
 
 def selection(num)
   if num = 1
-      binding.pry
+
      "HAM HAM HAM IN MY TUMMY"
   else
      "YUM YUM MUNCH MUNCH MUNCH"
